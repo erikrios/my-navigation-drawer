@@ -21,4 +21,5 @@
     <string name="menu_map">Maps</string>
     <string name="menu_hotel">Hotel</string>
     <string name="menu_subway">Subway</string>
+    <string name="communicate">Communicate</string>
 </resources>
