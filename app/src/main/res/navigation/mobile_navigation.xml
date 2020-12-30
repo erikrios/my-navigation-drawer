@@ -29,7 +29,7 @@
         android:label="@string/menu_cart"
         tools:layout="@layout/fragment_cart" />
 
-    <fragment
+    <activity
         android:id="@+id/nav_subway"
         android:name="io.erikrios.github.mynavigationdrawer.SubwayActivity"
         android:label="@string/menu_subway"
